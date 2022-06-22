@@ -1,0 +1,25 @@
+.debug .box {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 30px;
+    padding: 10px;
+}
+
+.debug .box-big {
+    background-color: blue;
+    height: 100px;
+    border: 1px solid white;
+}
+
+.debug .box-inner {
+    background-color: green;
+    border: 1px solid blue;
+    height: 100%;
+}
+
+.debug .margin-bottom1 {
+    margin-bottom: 1rem;
+}
